@@ -11,11 +11,7 @@
 
 八卦田
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/jayleemantou/blog-images/master/2021-05-13-UNADJUSTEDNONRAW_thumb_346.jpg" alt="八卦田" width="50%"/>
-</p>
-
-<!-- ![八卦田](https://raw.githubusercontent.com/jayleemantou/blog-images/master/2021-05-13-UNADJUSTEDNONRAW_thumb_346.jpg) -->
+![八卦田](https://raw.githubusercontent.com/jayleemantou/blog-images/master/2021-05-13-UNADJUSTEDNONRAW_thumb_346.jpg)
 
 
 
